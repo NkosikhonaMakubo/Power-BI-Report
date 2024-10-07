@@ -28,6 +28,9 @@ This section includes advanced AI features to enhance decision-making
 2. **Interactive Filters:** Utilize the slicers and filters on each page to focus on specific clients, projects, or time periods.
 3. **Exploration:** Use the AI visuals to explore hidden patterns and trends in the data.
 
+## Link to the report
+[View Report](https://app.powerbi.com/links/vQEMiPKQdS?ctid=b14d86f1-83ba-4b13-a702-b5c0231b9337&pbi_source=linkShare&bookmarkGuid=db363627-6fda-4857-8f83-dc4358dba4e8)
+
 ## References
 1. Microsoft, 2023. Power BI Documentation. Available at: https://docs.microsoft.com/en-us/power-bi/ [Accessed 1 October 2024].
 2. DataCamp, 2024. Data Cleaning Techniques. Available at: https://www.datacamp.com/ [Accessed 4 October 2024].
